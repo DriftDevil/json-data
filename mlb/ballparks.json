@@ -1,212 +1,242 @@
 [
   {
     "team": "Arizona Diamondbacks",
-    "stadium": "Chase Field",
+    "parkName": "Chase Field",
     "city": "Phoenix",
     "state": "AZ",
+    "stateFull": "Arizona",
     "capacity": 48686
   },
   {
     "team": "Atlanta Braves",
-    "stadium": "Truist Park",
+    "parkName": "Truist Park",
     "city": "Cumberland",
     "state": "GA",
+    "stateFull": "Georgia",
     "capacity": 41500
   },
   {
     "team": "Baltimore Orioles",
-    "stadium": "Oriole Park at Camden Yards",
+    "parkName": "Oriole Park at Camden Yards",
     "city": "Baltimore",
     "state": "MD",
+    "stateFull": "Maryland",
     "capacity": 45600
   },
   {
     "team": "Boston Red Sox",
-    "stadium": "Fenway Park",
+    "parkName": "Fenway Park",
     "city": "Boston",
     "state": "MA",
+    "stateFull": "Massachusetts",
     "capacity": 37955
   },
   {
     "team": "Chicago White Sox",
-    "stadium": "Guaranteed Rate Field",
+    "parkName": "Guaranteed Rate Field",
     "city": "Chicago",
     "state": "IL",
+    "stateFull": "Illinois",
     "capacity": 40615
   },
   {
     "team": "Chicago Cubs",
-    "stadium": "Wrigley Field",
+    "parkName": "Wrigley Field",
     "city": "Chicago",
     "state": "IL",
+    "stateFull": "Illinois",
     "capacity": 41649
   },
   {
     "team": "Cincinnati Reds",
-    "stadium": "Great American Ball Park",
+    "parkName": "Great American Ball Park",
     "city": "Cincinnati",
     "state": "OH",
+    "stateFull": "Ohio",
     "capacity": 42319
   },
   {
     "team": "Cleveland Guardians",
-    "stadium": "Progressive Field",
+    "parkName": "Progressive Field",
     "city": "Cleveland",
     "state": "OH",
+    "stateFull": "Ohio",
     "capacity": 34330
   },
   {
     "team": "Colorado Rockies",
-    "stadium": "Coors Field",
+    "parkName": "Coors Field",
     "city": "Denver",
     "state": "CO",
+    "stateFull": "Colorado",
     "capacity": 50398
   },
   {
     "team": "Detroit Tigers",
-    "stadium": "Comerica Park",
+    "parkName": "Comerica Park",
     "city": "Detroit",
     "state": "MI",
+    "stateFull": "Michigan",
     "capacity": 41297
   },
   {
     "team": "Houston Astros",
-    "stadium": "Minute Maid Park",
+    "parkName": "Minute Maid Park",
     "city": "Houston",
     "state": "TX",
+    "stateFull": "Texas",
     "capacity": 41676
   },
   {
     "team": "Kansas City Royals",
-    "stadium": "Kauffman Stadium",
+    "parkName": "Kauffman Stadium",
     "city": "Kansas City",
     "state": "MO",
+    "stateFull": "Missouri",
     "capacity": 37903
   },
   {
     "team": "Los Angeles Angels",
-    "stadium": "Angel Stadium of Anaheim",
+    "parkName": "Angel Stadium of Anaheim",
     "city": "Anaheim",
     "state": "CA",
+    "stateFull": "California",
     "capacity": 45517
   },
   {
     "team": "Los Angeles Dodgers",
-    "stadium": "Dodger Stadium",
+    "parkName": "Dodger Stadium",
     "city": "Los Angeles",
     "state": "CA",
+    "stateFull": "California",
     "capacity": 56000
   },
   {
     "team": "Miami Marlins",
-    "stadium": "LoanDepot Park",
+    "parkName": "LoanDepot Park",
     "city": "Miami",
     "state": "FL",
+    "stateFull": "Florida",
     "capacity": 36742
   },
   {
     "team": "Milwaukee Brewers",
-    "stadium": "American Family Field",
+    "parkName": "American Family Field",
     "city": "Milwaukee",
     "state": "WI",
+    "stateFull": "Wisconsin",
     "capacity": 41900
   },
   {
     "team": "Minnesota Twins",
-    "stadium": "Target Field",
+    "parkName": "Target Field",
     "city": "Minneapolis",
     "state": "MN",
+    "stateFull": "Minnesota",
     "capacity": 38744
   },
   {
     "team": "New York Mets",
-    "stadium": "Citi Field",
+    "parkName": "Citi Field",
     "city": "Queens",
     "state": "NY",
+    "stateFull": "New York",
     "capacity": 41622
   },
   {
     "team": "New York Yankees",
-    "stadium": "Yankee Stadium",
+    "parkName": "Yankee Stadium",
     "city": "Bronx",
     "state": "NY",
+    "stateFull": "New York",
     "capacity": 46737
   },
   {
     "team": "Oakland Athletics",
-    "stadium": "Oakland Coliseum",
+    "parkName": "Oakland Coliseum",
     "city": "Oakland",
     "state": "CA",
+    "stateFull": "California",
     "capacity": 46847
   },
   {
     "team": "Philadelphia Phillies",
-    "stadium": "Citizens Bank Park",
+    "parkName": "Citizens Bank Park",
     "city": "Philadelphia",
     "state": "PA",
+    "stateFull": "Pennsylvania",
     "capacity": 42792
   },
   {
     "team": "Pittsburgh Pirates",
-    "stadium": "PNC Park",
+    "parkName": "PNC Park",
     "city": "Pittsburgh",
     "state": "PA",
+    "stateFull": "Pennsylvania",
     "capacity": 38362
   },
   {
     "team": "San Diego Padres",
-    "stadium": "Petco Park",
+    "parkName": "Petco Park",
     "city": "San Diego",
     "state": "CA",
+    "stateFull": "California",
     "capacity": 40209
   },
   {
     "team": "San Francisco Giants",
-    "stadium": "Oracle Park",
+    "parkName": "Oracle Park",
     "city": "San Francisco",
     "state": "CA",
+    "stateFull": "California",
     "capacity": 41915
   },
   {
     "team": "Seattle Mariners",
-    "stadium": "T-Mobile Park",
+    "parkName": "T-Mobile Park",
     "city": "Seattle",
     "state": "WA",
+    "stateFull": "Washington",
     "capacity": 47929
   },
   {
     "team": "St. Louis Cardinals",
-    "stadium": "Busch Stadium",
+    "parkName": "Busch Stadium",
     "city": "St. Louis",
     "state": "MO",
+    "stateFull": "Missouri",
     "capacity": 44694
   },
   {
     "team": "Tampa Bay Rays",
-    "stadium": "Tropicana Field",
+    "parkName": "Tropicana Field",
     "city": "St. Petersburg",
     "state": "FL",
+    "stateFull": "Florida",
     "capacity": 25000
   },
   {
     "team": "Texas Rangers",
-    "stadium": "Globe Life Field",
+    "parkName": "Globe Life Field",
     "city": "Arlington",
     "state": "TX",
+    "stateFull": "Texas",
     "capacity": 40300
   },
   {
     "team": "Toronto Blue Jays",
-    "stadium": "Rogers Centre",
+    "parkName": "Rogers Centre",
     "city": "Toronto",
     "state": "ON",
+    "stateFull": "Ontario",
     "capacity": 41394
   },
   {
     "team": "Washington Nationals",
-    "stadium": "Nationals Park",
+    "parkName": "Nationals Park",
     "city": "Washington",
     "state": "DC",
+    "stateFull": "District of Columbia",
     "capacity": 41339
   }
 ]
