@@ -1,0 +1,226 @@
+[
+  {
+    "team": "Arizona Cardinals",
+    "stadium": "State Farm Stadium",
+    "city": "Glendale",
+    "state": "AZ",
+    "capacity": 63400
+  },
+  {
+    "team": "Atlanta Falcons",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "state": "GA",
+    "capacity": 71000
+  },
+  {
+    "team": "Baltimore Ravens",
+    "stadium": "M&T Bank Stadium",
+    "city": "Baltimore",
+    "state": "MD",
+    "capacity": 71000
+  },
+  {
+    "team": "Buffalo Bills",
+    "stadium": "Highmark Stadium",
+    "city": "Orchard Park",
+    "state": "NY",
+    "capacity": 71600
+  },
+  {
+    "team": "Carolina Panthers",
+    "stadium": "Bank of America Stadium",
+    "city": "Charlotte",
+    "state": "NC",
+    "capacity": 74867
+  },
+  {
+    "team": "Chicago Bears",
+    "stadium": "Soldier Field",
+    "city": "Chicago",
+    "state": "IL",
+    "capacity": 61500
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "stadium": "Paycor Stadium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "capacity": 65515
+  },
+  {
+    "team": "Cleveland Browns",
+    "stadium": "Cleveland Browns Stadium",
+    "city": "Cleveland",
+    "state": "OH",
+    "capacity": 67895
+  },
+  {
+    "team": "Dallas Cowboys",
+    "stadium": "AT&T Stadium",
+    "city": "Arlington",
+    "state": "TX",
+    "capacity": 80000
+  },
+  {
+    "team": "Denver Broncos",
+    "stadium": "Empower Field at Mile High",
+    "city": "Denver",
+    "state": "CO",
+    "capacity": 76125
+  },
+  {
+    "team": "Detroit Lions",
+    "stadium": "Ford Field",
+    "city": "Detroit",
+    "state": "MI",
+    "capacity": 65000
+  },
+  {
+    "team": "Green Bay Packers",
+    "stadium": "Lambeau Field",
+    "city": "Green Bay",
+    "state": "WI",
+    "capacity": 81441
+  },
+  {
+    "team": "Houston Texans",
+    "stadium": "NRG Stadium",
+    "city": "Houston",
+    "state": "TX",
+    "capacity": 72220
+  },
+  {
+    "team": "Indianapolis Colts",
+    "stadium": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "state": "IN",
+    "capacity": 70000
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "stadium": "EverBank Stadium",
+    "city": "Jacksonville",
+    "state": "FL",
+    "capacity": 67814
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "stadium": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City",
+    "state": "MO",
+    "capacity": 76416
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "stadium": "Allegiant Stadium",
+    "city": "Paradise",
+    "state": "NV",
+    "capacity": 65000
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood",
+    "state": "CA",
+    "capacity": 70240
+  },
+  {
+    "team": "Los Angeles Rams",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood",
+    "state": "CA",
+    "capacity": 70240
+  },
+  {
+    "team": "Miami Dolphins",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "capacity": 65326
+  },
+  {
+    "team": "Minnesota Vikings",
+    "stadium": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "state": "MN",
+    "capacity": 66860
+  },
+  {
+    "team": "New England Patriots",
+    "stadium": "Gillette Stadium",
+    "city": "Foxborough",
+    "state": "MA",
+    "capacity": 65878
+  },
+  {
+    "team": "New Orleans Saints",
+    "stadium": "Caesars Superdome",
+    "city": "New Orleans",
+    "state": "LA",
+    "capacity": 73208
+  },
+  {
+    "team": "New York Giants",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "capacity": 82500
+  },
+  {
+    "team": "New York Jets",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "capacity": 82500
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "stadium": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "state": "PA",
+    "capacity": 67594
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "stadium": "Acrisure Stadium",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "capacity": 68400
+  },
+  {
+    "team": "San Francisco 49ers",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara",
+    "state": "CA",
+    "capacity": 68500
+  },
+  {
+    "team": "Seattle Seahawks",
+    "stadium": "Lumen Field",
+    "city": "Seattle",
+    "state": "WA",
+    "capacity": 68740
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "stadium": "Raymond James Stadium",
+    "city": "Tampa",
+    "state": "FL",
+    "capacity": 65618
+  },
+  {
+    "team": "Tennessee Titans",
+    "stadium": "Nissan Stadium",
+    "city": "Nashville",
+    "state": "TN",
+    "capacity": 69143
+  },
+  {
+    "team": "Washington Commanders",
+    "stadium": "FedExField",
+    "city": "Landover",
+    "state": "MD",
+    "capacity": 62000
+  }
+]
