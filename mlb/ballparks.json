@@ -1,0 +1,212 @@
+[
+  {
+    "team": "Arizona Diamondbacks",
+    "stadium": "Chase Field",
+    "city": "Phoenix",
+    "state": "AZ",
+    "capacity": 48686
+  },
+  {
+    "team": "Atlanta Braves",
+    "stadium": "Truist Park",
+    "city": "Cumberland",
+    "state": "GA",
+    "capacity": 41500
+  },
+  {
+    "team": "Baltimore Orioles",
+    "stadium": "Oriole Park at Camden Yards",
+    "city": "Baltimore",
+    "state": "MD",
+    "capacity": 45600
+  },
+  {
+    "team": "Boston Red Sox",
+    "stadium": "Fenway Park",
+    "city": "Boston",
+    "state": "MA",
+    "capacity": 37955
+  },
+  {
+    "team": "Chicago White Sox",
+    "stadium": "Guaranteed Rate Field",
+    "city": "Chicago",
+    "state": "IL",
+    "capacity": 40615
+  },
+  {
+    "team": "Chicago Cubs",
+    "stadium": "Wrigley Field",
+    "city": "Chicago",
+    "state": "IL",
+    "capacity": 41649
+  },
+  {
+    "team": "Cincinnati Reds",
+    "stadium": "Great American Ball Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "capacity": 42319
+  },
+  {
+    "team": "Cleveland Guardians",
+    "stadium": "Progressive Field",
+    "city": "Cleveland",
+    "state": "OH",
+    "capacity": 34330
+  },
+  {
+    "team": "Colorado Rockies",
+    "stadium": "Coors Field",
+    "city": "Denver",
+    "state": "CO",
+    "capacity": 50398
+  },
+  {
+    "team": "Detroit Tigers",
+    "stadium": "Comerica Park",
+    "city": "Detroit",
+    "state": "MI",
+    "capacity": 41297
+  },
+  {
+    "team": "Houston Astros",
+    "stadium": "Minute Maid Park",
+    "city": "Houston",
+    "state": "TX",
+    "capacity": 41676
+  },
+  {
+    "team": "Kansas City Royals",
+    "stadium": "Kauffman Stadium",
+    "city": "Kansas City",
+    "state": "MO",
+    "capacity": 37903
+  },
+  {
+    "team": "Los Angeles Angels",
+    "stadium": "Angel Stadium of Anaheim",
+    "city": "Anaheim",
+    "state": "CA",
+    "capacity": 45517
+  },
+  {
+    "team": "Los Angeles Dodgers",
+    "stadium": "Dodger Stadium",
+    "city": "Los Angeles",
+    "state": "CA",
+    "capacity": 56000
+  },
+  {
+    "team": "Miami Marlins",
+    "stadium": "LoanDepot Park",
+    "city": "Miami",
+    "state": "FL",
+    "capacity": 36742
+  },
+  {
+    "team": "Milwaukee Brewers",
+    "stadium": "American Family Field",
+    "city": "Milwaukee",
+    "state": "WI",
+    "capacity": 41900
+  },
+  {
+    "team": "Minnesota Twins",
+    "stadium": "Target Field",
+    "city": "Minneapolis",
+    "state": "MN",
+    "capacity": 38744
+  },
+  {
+    "team": "New York Mets",
+    "stadium": "Citi Field",
+    "city": "Queens",
+    "state": "NY",
+    "capacity": 41622
+  },
+  {
+    "team": "New York Yankees",
+    "stadium": "Yankee Stadium",
+    "city": "Bronx",
+    "state": "NY",
+    "capacity": 46737
+  },
+  {
+    "team": "Oakland Athletics",
+    "stadium": "Oakland Coliseum",
+    "city": "Oakland",
+    "state": "CA",
+    "capacity": 46847
+  },
+  {
+    "team": "Philadelphia Phillies",
+    "stadium": "Citizens Bank Park",
+    "city": "Philadelphia",
+    "state": "PA",
+    "capacity": 42792
+  },
+  {
+    "team": "Pittsburgh Pirates",
+    "stadium": "PNC Park",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "capacity": 38362
+  },
+  {
+    "team": "San Diego Padres",
+    "stadium": "Petco Park",
+    "city": "San Diego",
+    "state": "CA",
+    "capacity": 40209
+  },
+  {
+    "team": "San Francisco Giants",
+    "stadium": "Oracle Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "capacity": 41915
+  },
+  {
+    "team": "Seattle Mariners",
+    "stadium": "T-Mobile Park",
+    "city": "Seattle",
+    "state": "WA",
+    "capacity": 47929
+  },
+  {
+    "team": "St. Louis Cardinals",
+    "stadium": "Busch Stadium",
+    "city": "St. Louis",
+    "state": "MO",
+    "capacity": 44694
+  },
+  {
+    "team": "Tampa Bay Rays",
+    "stadium": "Tropicana Field",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "capacity": 25000
+  },
+  {
+    "team": "Texas Rangers",
+    "stadium": "Globe Life Field",
+    "city": "Arlington",
+    "state": "TX",
+    "capacity": 40300
+  },
+  {
+    "team": "Toronto Blue Jays",
+    "stadium": "Rogers Centre",
+    "city": "Toronto",
+    "state": "ON",
+    "capacity": 41394
+  },
+  {
+    "team": "Washington Nationals",
+    "stadium": "Nationals Park",
+    "city": "Washington",
+    "state": "DC",
+    "capacity": 41339
+  }
+]
